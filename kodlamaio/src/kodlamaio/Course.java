@@ -10,5 +10,6 @@ public class Course {
 		this.id = id;
 		this.name = name;
 		this.progressNumber = progressNumber;
+		
 	}
 }
