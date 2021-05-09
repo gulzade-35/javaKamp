@@ -8,6 +8,5 @@ public class Category {
 		super();
 		this.id = id;
 		this.name = name;
-		
 	}
 }
